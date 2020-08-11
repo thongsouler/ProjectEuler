@@ -6,3 +6,4 @@
 	+ git commit -m "Describe..."
 	+ git remote add origin + link
 	+ git push -p origin master
+# List comprehension
