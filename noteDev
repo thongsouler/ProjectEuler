@@ -1,0 +1,8 @@
+#GIT
+	+ Tạo repo trên web
+	+ git init tại folder cần up
+	+ git add + filename
+	+ git status để kiểm tra trạng thái các file,..
+	+ git commit -m "Describe..."
+	+ git remote add origin + link
+	+ git push -p origin master
